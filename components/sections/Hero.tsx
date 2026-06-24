@@ -26,7 +26,7 @@ export function Hero({ checkoutUrl }: Props) {
               <span className="relative inline-flex h-2 w-2 rounded-full bg-cyan" />
             </span>
             <span className="text-[11px] lg:text-xs tracking-[0.18em] uppercase font-medium text-cyan">
-              Aula ao vivo · 8 de junho, às 19h
+              Aula ao vivo · 13 de julho, às 19h
             </span>
           </div>
 
